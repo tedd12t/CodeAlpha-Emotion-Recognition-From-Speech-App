@@ -1,6 +1,0 @@
-streamlit
-librosa
-tensorflow
-joblib
-numpy
-pandas
