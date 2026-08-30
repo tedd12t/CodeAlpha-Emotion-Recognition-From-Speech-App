@@ -1,0 +1,14 @@
+# Ignore the dataset
+SER/
+Actor_*/
+*.wav
+*.zip
+
+# Ignore Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+env/
+venv/
+emotion_ai/
